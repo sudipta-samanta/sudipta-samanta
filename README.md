@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Sudipta!</h1>
+<h1 align="center">Hi 👋 I'm Sudipta</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 🔭 I’m currently working on **Kotlin, Dropwizard, Java, Spring Framework,**
+- 🔭 I’m currently working on **Java, Spring Framework,**
 
-- 🌱 I’m currently learning **Kotlin, React, System Design, NoSQL**
+- 🌱 I’m currently learning **React, System Design, NoSQL, Jenkins**
 
 - 💬 Ask me about **java, spring boot, rdbms**
 
